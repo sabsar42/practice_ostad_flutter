@@ -1,2 +1,1 @@
-
-Navigation to differnet pages and Routing
+Dark theme with a Switch button in the appbar (Not Completed)
