@@ -13,6 +13,6 @@ class CounterStateController extends GetxController{
     }
     _count += value;
     update();
-
   }
+
 }
